@@ -1,7 +1,3 @@
-// import 'package:fonnx/third_party/diacritic/diacritic.dart';
-// import 'package:onnxruntime_example/third_party/diacritic/diacritic.dart';
-// import 'package:onnxruntime_example/tokenizers/embedding.dart';
-
 import 'package:wordpiece_tokenizer/src/third_party/diacritic/diacritic.dart';
 import 'package:wordpiece_tokenizer/src/tokenizers/embedding.dart';
 
